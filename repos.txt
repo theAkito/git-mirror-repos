@@ -3,3 +3,4 @@ https://codeberg.org/readeck/readeck
 https://github.com/mkloubert/vs-rest-api/
 https://github.com/dpar39/vscode-rest-control
 https://github.com/massgravel/Microsoft-Activation-Scripts
+https://github.com/cemu-project/Cemu
