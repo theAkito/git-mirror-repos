@@ -31,3 +31,5 @@ https://github.com/kornelski/cargo-deb
 https://github.com/ouch-org/ouch
 https://github.com/sharkdp/hyperfine
 https://github.com/AsheeHuang/rsynx
+https://github.com/wchang22/LuminS
+https://github.com/rustic-rs/rustic
