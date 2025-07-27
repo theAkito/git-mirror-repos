@@ -1,0 +1,12 @@
+https://github.com/tesujimath/bash-env-nushell
+https://github.com/fdncred/nu_plugin_file
+https://github.com/amtoine/nu_plugin_explore
+https://github.com/fennewald/nu_plugin_net
+https://github.com/fdncred/nu_plugin_regex
+https://github.com/FMotalleb/nu_plugin_clipboard
+https://github.com/devyn/nu_plugin_dbus
+https://github.com/Euphrasiologist/nu_plugin_bio
+https://github.com/Trivernis/nu-plugin-dialog
+https://github.com/ArmoredPony/nu_plugin_hashes
+https://github.com/Euphrasiologist/nu_plugin_plot
+https://github.com/fdncred/nu_plugin_file
