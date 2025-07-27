@@ -28,3 +28,5 @@ https://github.com/edelsonc/asciify
 https://github.com/qtfkwk/cargo-list
 https://github.com/nabijaczleweli/cargo-update
 https://github.com/kornelski/cargo-deb
+https://github.com/ouch-org/ouch
+https://github.com/sharkdp/hyperfine
