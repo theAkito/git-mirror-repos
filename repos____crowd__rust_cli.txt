@@ -3,6 +3,8 @@ https://github.com/01mf02/jaq
 https://github.com/eduardosm/rsjsonnet
 https://github.com/zekroTJA/goup
 https://github.com/thinkgos/goup-rs
+https://github.com/TaKO8Ki/frum
+https://github.com/Schniz/fnm
 https://github.com/denoland/deno
 https://github.com/zellij-org/zellij
 https://github.com/helix-editor/helix
