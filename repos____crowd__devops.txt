@@ -1,0 +1,1 @@
+https://github.com/omarismail/terraform-plan-tui
