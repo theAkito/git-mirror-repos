@@ -6,3 +6,4 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 https://github.com/cemu-project/Cemu
 https://codeberg.org/mister_monster/YouTube2Peertube.git
 https://github.com/Gizmo091/Tauridium
+https://github.com/LayerDynamics/forge
